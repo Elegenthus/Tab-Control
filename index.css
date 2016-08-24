@@ -22,6 +22,7 @@
 	border-bottom: none;
 	background-color: pink;
 	cursor:pointer;
+	height: 18px;
 }
 #table{
 	width: 800px;
